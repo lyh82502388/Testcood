@@ -21,7 +21,7 @@
      字段（column）
      记录（row）
 
-2. mysql 
+2. mysql
   
    特点  安装
 
